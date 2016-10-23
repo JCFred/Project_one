@@ -1,0 +1,39 @@
+.wrapper {
+width: 600px;
+margin: auto;
+}
+img { width: 100%; }
+body {
+  background-color: #CC0C00;
+}
+
+header {height: 100px;}
+
+header h1 {
+  text-align: center;
+  color: white;
+  font-size: 5em;
+}
+
+main {
+
+  }
+
+main h1 {
+    color: #002395;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    font-size: 3em;
+  }
+main p{
+  color:white;
+  text-align: center;
+}
+
+  a:link    { color: blue; }
+  a:visited { color: purple;   }
+  a:hover   { color: green; }
+  a:active  { color: yellow;  }
+
+footer {
+}
